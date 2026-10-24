@@ -18,3 +18,8 @@ server/dist/
 
 # Mac files
 .DS_Store
+
+
+# Local MongoDB database files
+server/data/db/
+server/data/
